@@ -1,1 +1,1 @@
-# Company-Investor_Informationa_Network_Analysis
+# Company-Investor_Information_Network_Analysis
